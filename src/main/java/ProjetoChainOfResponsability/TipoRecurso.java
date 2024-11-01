@@ -1,4 +1,4 @@
 package ProjetoChainOfResponsability;
 
-public interface TipoSuporte {
+public interface TipoRecurso {
 }
